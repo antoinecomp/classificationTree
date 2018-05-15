@@ -1,15 +1,4 @@
 # Compiled source #
 ###################
-JOBLIST.csv
-JOBTYPE.csv
-KISAIM.csv
-KISCOURSE.csv
-LOCATION.csv
-NHSNSS.csv
-NSS.csv
-SALARY.csv
-SBJ.csv
-TARIFF.csv
-UCASCOURSEID.csv
-addCSVToElastic.py
+*.csv
 
